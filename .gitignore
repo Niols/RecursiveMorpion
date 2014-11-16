@@ -5,6 +5,10 @@
 *#
 
 # OCaml
-*cmx
-*cmo
-*cmi
+*.cmx
+*.cmo
+*.cmi
+*.byte
+*.native
+_build
+_tags
